@@ -6,6 +6,6 @@
 ###  you need to do it manually, after you made a particle .mcfunction select export and then select your<br>
 ###  (yourdatapack)/data/(yournamespace)/functions/<br>
 ###  or to just /functions/, which from it you need to take it into your datapacks functions folder.<br><br>
-
+### i didn't check if it works for even older versions. i'll let the comunity check it out!<br><br><br>
 
 ####  made by FlaxyDitto
